@@ -1,0 +1,55 @@
+# залежності
+/node_modules
+/.pnp
+.pnp.js
+
+# збірка
+/build
+
+# середовище
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE/редактори
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# системні файли
+.DS_Store
+Thumbs.db
+
+# npm лог
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# вивід тестів
+/coverage
+
+# лог webpack
+webpack-stats.json
+
+# локальні сервери (наприклад, XAMPP)
+xampp/
+htdocs/**/*.log
+htdocs/**/error_log
+htdocs/**/php_errors.log
+
+# тимчасові файли
+*.local
+*.tmp
+*.temp
+*.bak
+
+# Windows специфічне
+ehthumbs.db
+Desktop.ini
+
+# Браузер кеш або сторінки
+.cache/
