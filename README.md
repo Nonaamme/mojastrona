@@ -18,13 +18,11 @@ The project demonstrates basic full-stack development with a React frontend and 
 ## Context
 This project was created as part of a university assignment to practice building a small full-stack application.
 
----
 ## How to run
 1. Clone this repository  
 2. Install dependencies with `npm install`  
 3. Start the app with `npm start`  
 4. Make sure to set up your backend server for the database connection
 
----
 
 Feel free to check my other projects on [my GitHub profile](https://github.com/Nonaamme).
